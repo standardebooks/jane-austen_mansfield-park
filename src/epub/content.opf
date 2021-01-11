@@ -73,10 +73,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Jane_Austen</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79032879</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">Théodore Chassériau</dc:contributor>
-		<meta property="file-as" refines="#artist">Chassériau, Théodore</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Th%C3%A9odore_Chass%C3%A9riau</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n80051057</meta>
+		<dc:contributor id="artist">François Gérard</dc:contributor>
+		<meta property="file-as" refines="#artist">Gérard, François</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Fran%C3%A7ois_G%C3%A9rard</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n85158403</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">An Anonymous Volunteer</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Anonymous Volunteer, An</meta>
