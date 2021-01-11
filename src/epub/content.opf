@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jane-austen/mansfield-park</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-01-11T19:50:42Z</dc:date>
+		<meta property="dcterms:modified">2021-01-11T19:50:42Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -57,15 +57,17 @@
 		<meta property="authority" refines="#subject-9">LCSH</meta>
 		<meta property="term" refines="#subject-9">sh2008113075</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A young girl is sent to live with her wealthy relatives at a country estate, where she must navigate adolesence and young adulthood.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;At the age of 10, Fanny Price, the daughter of a poor Portsmouth family, is sent to live with her wealthy uncle’s family, the Bertrams, at the country estate of Mansfield Park. The Bertrams treat her cruelly at first, and Fanny has trouble fitting in. Her female cousins, Maria and Julia, are fashionable and vapid, and her elder male cousin, Tom, is a drunk. The only family member she feels a connection to is the younger Edmund, who is preparing for life in the clergy.&lt;/p&gt;
+			&lt;p&gt;When her uncle leaves to manage business in Antigua, Henry and Mary Crawford, siblings from the region, come to live at Mansfield Park as well. Their arrival begins a series of romantic engagements that strains the entire family’s relationships.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Mansfield Park&lt;/i&gt; is unusual in that despite it being a great public success, with the first edition selling out in six months and a second edition selling out two years later, it wasn’t publicly reviewed until 1821, seven years after it was first published. Contemporary reviews were generally good, praising the novel’s morality. Modern reviews are more mixed, making it one of &lt;a href="https://standardebooks.org/ebooks/jane-austen"&gt;Austen’s&lt;/a&gt; more controversial works. Modern critics have called it everything from eccentric and difficult to thoughtful and profound, with any number of interpretations possible depending on the lens one views the work through.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/141</dc:source>
 		<dc:source>https://books.google.com/books?id=qVcVAAAAYAAJ</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">160782</meta>
+		<meta property="se:reading-ease.flesch">66.27</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Mansfield_Park</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jane-austen_mansfield-park</meta>
 		<dc:creator id="author">Jane Austen</dc:creator>
