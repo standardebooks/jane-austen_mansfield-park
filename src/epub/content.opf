@@ -67,7 +67,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/141</dc:source>
 		<dc:source>https://books.google.com/books?id=qVcVAAAAYAAJ</dc:source>
-		<meta property="se:word-count">160780</meta>
+		<meta property="se:word-count">160779</meta>
 		<meta property="se:reading-ease.flesch">66.27</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Mansfield_Park</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jane-austen_mansfield-park</meta>
