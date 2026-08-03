@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/jane-austen/mansfield-park</dc:identifier>
 		<dc:date>2021-01-11T19:50:42Z</dc:date>
@@ -61,12 +61,12 @@
 		<meta id="collection-1" property="belongs-to-collection">The Guardian’s 100 Best Novels of All Time (2026)</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">56</meta>
-		<dc:description id="description">A young girl is sent to live with her wealthy relatives at a country estate, where she must navigate adolescence and young adulthood.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young girl is sent to live with her wealthy relatives at a country estate, where she must navigate adolescence and young adulthood.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;At the age of 10, Fanny Price, the daughter of a poor Portsmouth family, is sent to live with her wealthy uncle’s family, the Bertrams, at the country estate of Mansfield Park. The Bertrams treat her cruelly at first, and Fanny has trouble fitting in. Her female cousins, Maria and Julia, are fashionable and vapid, and her elder male cousin, Tom, is a drunk. The only family member she feels a connection to is the younger Edmund, who is preparing for life in the clergy.&lt;/p&gt;
 			&lt;p&gt;When her uncle leaves to manage business in Antigua, Henry and Mary Crawford, siblings from the region, come to live at Mansfield Park as well. Their arrival begins a series of romantic engagements that strains the entire family’s relationships.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Mansfield Park&lt;/i&gt; is unusual in that despite it being a great public success, with the first edition selling out in six months and a second edition selling out two years later, it wasn’t publicly reviewed until 1821, seven years after it was first published. Contemporary reviews were generally good, praising the novel’s morality. Modern reviews are more mixed, making it one of &lt;a href="https://standardebooks.org/ebooks/jane-austen"&gt;Austen’s&lt;/a&gt; more controversial works. Modern critics have called it everything from eccentric and difficult to thoughtful and profound, with any number of interpretations possible depending on the lens one views the work through.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/141</dc:source>
 		<dc:source>https://books.google.com/books?id=qVcVAAAAYAAJ</dc:source>
