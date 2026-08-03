@@ -70,7 +70,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/141</dc:source>
 		<dc:source>https://books.google.com/books?id=qVcVAAAAYAAJ</dc:source>
-		<meta property="schema:wordCount">159785</meta>
+		<meta property="schema:wordCount">159867</meta>
 		<meta property="schema:educationalLevel">66.27</meta>
 		<link href="https://en.wikipedia.org/wiki/Mansfield_Park" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
