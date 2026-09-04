@@ -30,15 +30,15 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Mansfield Park</dc:title>
 		<meta property="file-as" refines="#title">Mansfield Park</meta>
-		<dc:subject id="subject-1">England -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Young women -- Fiction</dc:subject>
+		<dc:subject id="subject-1">England--Fiction</dc:subject>
+		<dc:subject id="subject-2">Young women--Fiction</dc:subject>
 		<dc:subject id="subject-3">Love stories</dc:subject>
 		<dc:subject id="subject-4">Domestic fiction</dc:subject>
-		<dc:subject id="subject-5">Country homes -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Adoptees -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Children of the rich -- Fiction</dc:subject>
-		<dc:subject id="subject-8">Cousins -- Fiction</dc:subject>
-		<dc:subject id="subject-9">Uncles -- Fiction</dc:subject>
+		<dc:subject id="subject-5">Country homes--Fiction</dc:subject>
+		<dc:subject id="subject-6">Adoptees--Fiction</dc:subject>
+		<dc:subject id="subject-7">Children of the rich--Fiction</dc:subject>
+		<dc:subject id="subject-8">Cousins--Fiction</dc:subject>
+		<dc:subject id="subject-9">Uncles--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
